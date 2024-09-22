@@ -1,0 +1,176 @@
+
+Breed: Labrador Retriever
+Qualities: Friendly, Active, Outgoing
+Lifespan: 10-12 years
+Height: 22-24 inches
+Weight: 55-80 lbs
+Care Tips: Regular exercise, balanced diet, and grooming are essential. Labradors are prone to obesity.
+
+Breed: German Shepherd
+Qualities: Intelligent, Loyal, Courageous
+Lifespan: 9-13 years
+Height: 22-26 inches
+Weight: 50-90 lbs
+Care Tips: German Shepherds need mental stimulation, physical exercise, and early training for optimal behavior.
+
+Breed: Golden Retriever
+Qualities: Intelligent, Friendly, Devoted
+Lifespan: 10-12 years
+Height: 21-24 inches
+Weight: 55-75 lbs
+Care Tips: Regular grooming, plenty of exercise, and mental stimulation help Golden Retrievers thrive.
+
+Breed: Bulldog
+Qualities: Docile, Willful, Friendly
+Lifespan: 8-10 years
+Height: 14-15 inches
+Weight: 40-50 lbs
+Care Tips: Bulldogs should avoid overheating. Minimal exercise and regular checkups are important due to health issues.
+
+Breed: Poodle
+Qualities: Intelligent, Alert, Active
+Lifespan: 12-15 years
+Height: 10-22 inches (Toy, Miniature, Standard)
+Weight: 6-70 lbs
+Care Tips: Regular grooming to prevent matting. Poodles need physical exercise and mental challenges.
+
+Breed: Beagle
+Qualities: Curious, Merry, Friendly
+Lifespan: 12-15 years
+Height: 13-15 inches
+Weight: 20-30 lbs
+Care Tips: Beagles require regular exercise to manage their energy levels and avoid obesity.
+
+Breed: Rottweiler
+Qualities: Confident, Fearless, Good-natured
+Lifespan: 9-10 years
+Height: 22-27 inches
+Weight: 80-135 lbs
+Care Tips: Rottweilers need firm training and plenty of socialization. They benefit from regular exercise.
+
+Breed: Dachshund
+Qualities: Clever, Stubborn, Playful
+Lifespan: 12-16 years
+Height: 5-9 inches
+Weight: 16-32 lbs
+Care Tips: Avoid overfeeding and limit jumping from heights to prevent back problems.
+
+Breed: Siberian Husky
+Qualities: Loyal, Outgoing, Mischievous
+Lifespan: 12-14 years
+Height: 20-24 inches
+Weight: 35-60 lbs
+Care Tips: Huskies require lots of physical activity and mental stimulation to avoid boredom.
+
+Breed: Boxer
+Qualities: Bright, Fun-loving, Active
+Lifespan: 10-12 years
+Height: 21-25 inches
+Weight: 60-80 lbs
+Care Tips: Boxers benefit from consistent training, regular exercise, and mental engagement.
+
+Breed: Shih Tzu
+Qualities: Affectionate, Playful, Friendly
+Lifespan: 10-16 years
+Height: 9-11 inches
+Weight: 9-16 lbs
+Care Tips: Regular grooming is essential. Shih Tzus need moderate exercise and lots of companionship.
+
+Breed: Doberman Pinscher
+Qualities: Alert, Fearless, Loyal
+Lifespan: 10-13 years
+Height: 24-28 inches
+Weight: 60-100 lbs
+Care Tips: Dobermans need mental challenges and regular physical activity to stay sharp and healthy.
+
+Breed: Great Dane
+Qualities: Friendly, Patient, Dependable
+Lifespan: 7-10 years
+Height: 28-34 inches
+Weight: 110-175 lbs
+Care Tips: Great Danes require low-impact exercise due to their large size. Soft bedding can help joint health.
+
+Breed: Chihuahua
+Qualities: Charming, Alert, Lively
+Lifespan: 14-16 years
+Height: 5-8 inches
+Weight: 2-6 lbs
+Care Tips: Chihuahuas need warmth, gentle handling, and proper dental care due to their small size.
+
+Breed: Pug
+Qualities: Charming, Mischievous, Loving
+Lifespan: 12-15 years
+Height: 10-13 inches
+Weight: 14-18 lbs
+Care Tips: Pugs need regular exercise and a monitored diet to avoid obesity. Watch for breathing issues.
+
+Breed: Cocker Spaniel
+Qualities: Gentle, Smart, Happy
+Lifespan: 12-15 years
+Height: 14-17 inches
+Weight: 20-30 lbs
+Care Tips: Regular grooming and ear cleaning are essential for Cocker Spaniels. Daily exercise keeps them healthy.
+
+Breed: Border Collie
+Qualities: Energetic, Smart, Tenacious
+Lifespan: 12-15 years
+Height: 18-22 inches
+Weight: 30-55 lbs
+Care Tips: Border Collies need extensive mental and physical exercise to prevent boredom.
+
+Breed: Australian Shepherd
+Qualities: Smart, Work-oriented, Loyal
+Lifespan: 12-15 years
+Height: 18-23 inches
+Weight: 40-65 lbs
+Care Tips: Australian Shepherds thrive with regular exercise and tasks that stimulate their minds.
+
+Breed: French Bulldog
+Qualities: Playful, Affectionate, Adaptable
+Lifespan: 10-12 years
+Height: 11-12 inches
+Weight: 16-28 lbs
+Care Tips: French Bulldogs are prone to overheating and breathing problems. Short walks and a cool environment are key.
+
+Breed: Yorkshire Terrier
+Qualities: Affectionate, Sprightly, Tomboyish
+Lifespan: 11-15 years
+Height: 7-8 inches
+Weight: 4-7 lbs
+Care Tips: Regular grooming and dental care are essential for Yorkies. Moderate exercise keeps them happy.
+
+Breed: Pembroke Welsh Corgi
+Qualities: Smart, Playful, Affectionate
+Lifespan: 12-15 years
+Height: 10-12 inches
+Weight: 25-30 lbs
+Care Tips: Corgis need regular exercise and mental stimulation to prevent boredom. Watch their weight.
+
+Breed: Boston Terrier
+Qualities: Friendly, Intelligent, Lively
+Lifespan: 11-13 years
+Height: 15-17 inches
+Weight: 12-25 lbs
+Care Tips: Boston Terriers are prone to respiratory issues. Keep their walks short and gentle.
+
+Breed: Shetland Sheepdog
+Qualities: Playful, Energetic, Affectionate
+Lifespan: 12-14 years
+Height: 13-16 inches
+Weight: 15-25 lbs
+Care Tips: Regular grooming and physical activity are important for Shelties. They thrive on mental stimulation.
+
+Breed: Bichon Frise
+Qualities: Playful, Curious, Cheerful
+Lifespan: 12-15 years
+Height: 9-12 inches
+Weight: 12-18 lbs
+Care Tips: Regular grooming is essential to prevent matting. Bichons need moderate exercise and companionship.
+
+Breed: Akita
+Qualities: Dignified, Loyal, Courageous
+Lifespan: 10-14 years
+Height: 24-28 inches
+Weight: 70-130 lbs
+Care Tips: Akitas require consistent training, early socialization, and regular physical exercise.
+
